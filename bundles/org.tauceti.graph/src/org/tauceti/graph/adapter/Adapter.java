@@ -23,9 +23,5 @@ package org.tauceti.graph.adapter;
  */
 public interface Adapter {
 
-	/**
-	 * 
-	 * @param msg
-	 */
 	void notifySettingChanged(Notification notification);
 }
