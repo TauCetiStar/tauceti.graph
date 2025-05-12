@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Tau Ceti Graph
 Bundle-SymbolicName: org.tauceti.graph;singleton:=true
-Bundle-Vendor: tauceti.org
+Bundle-Vendor: TauCeti.org
 Bundle-Version: 1.0.0.qualifier
 Automatic-Module-Name: cloud.tauceti.graph
 Bundle-RequiredExecutionEnvironment: JavaSE-11
