@@ -22,6 +22,7 @@ import org.tauceti.graph.adapter.Notification;
 import org.tauceti.graph.graphics.Rectangle;
 
 /**
+ * 
  * @author Yang Yang <yangyang4j@gmail.com>
  */
 public class BoundedShape extends Figure {
