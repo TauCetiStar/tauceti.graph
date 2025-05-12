@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Tau Ceti Graph
+Bundle-SymbolicName: org.tauceti.graph;singleton:=true
+Bundle-Vendor: tauceti.org
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: cloud.tauceti.graph
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Bundle-ActivationPolicy: lazy
+Import-Package: org.apache.xerces.jaxp;version="[2.0.0,3.0.0)",
+ org.apache.xml.serialize;version="[2.0.0,3.0.0)"
+Export-Package: org.tauceti.graph;version="1.0.0",
+ org.tauceti.graph.adapter;version="1.0.0",
+ org.tauceti.graph.extensions;version="1.0.0",
+ org.tauceti.graph.extensions.impl;version="1.0.0",
+ org.tauceti.graph.filter;version="1.0.0",
+ org.tauceti.graph.graphics;version="1.0.0",
+ org.tauceti.graph.graphics.impl;version="1.0.0",
+ org.tauceti.graph.proxy;version="1.0.0",
+ org.tauceti.graph.resolver;version="1.0.0",
+ org.tauceti.graph.resolver.impl;version="1.0.0",
+ org.tauceti.graph.util;version="1.0.0"
